@@ -1,5 +1,13 @@
 [
   {
+    "id": "mvqqro96ssud70",
+    "site": "breviary",
+    "title": "The Saints Commons are finished and are integrated!!!",
+    "summary": "As the title suggests, it is indeed implemented now. It works just like like the normal Ferial hours do. There is a little drop down box where you can select either \"Saints\" or \"Ferial\". On days where there aren't any saint feats, then the \"Saint\" box will be unusable until the next saint day. The Ferial hours are always there, working, and are correct. Now if you see any spelling, grammar, or any misaligned texts, then please let me know! ---Project Liturgy",
+    "journal": "",
+    "date": "2026-10-27"
+  },
+  {
     "id": "mvn823o7dbjx1r",
     "site": "breviary",
     "title": "HUGE UPDATE!",
